@@ -7,3 +7,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybm1968)
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ybm1968)
+
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
