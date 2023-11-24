@@ -4,6 +4,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ybm1968&repo=ChanterLiving)](https://github.com/ybm1968/ChanterLiving)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ybm1968&repo=DreamAir)](https://github.com/ybm1968/DreamAir)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybm1968)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybm1968)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ybm1968)]
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ybm1968)
